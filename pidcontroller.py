@@ -1,4 +1,4 @@
-#Developed by Mark Tomczak (fixermark@gmail.com)
+
 #Python class to calculate PID values
 
 
